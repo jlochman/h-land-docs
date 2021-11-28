@@ -1,5 +1,4 @@
 ---
-layout: page,
 order: 900
 author: 
     email: jlochman@h-land.io

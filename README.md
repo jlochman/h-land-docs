@@ -2,7 +2,7 @@
 Based on [ReType](https://retype.com/).
 
 ## Prerequisities
-You need `npm` to install the retypeapp package
+You need `npm` to install the `retypeapp` package
 ```
 npm install retypeapp --global
 ```
@@ -12,13 +12,13 @@ npm install retypeapp --global
 clone repository and run server
 ```
 git clone https://github.com/jlochman/h-land-docs.git
-cd docs
+cd h-land-docs
 retype watch
 ```
 
 server will run with configuration specified in `retype.yml` file.
 
-> Note: server will watch for any changes in `docs` folder.
+> Note: server will watch for any changes in `h-land-docs` folder.
 
 ## Quick Links
 
