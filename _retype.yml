@@ -27,5 +27,4 @@ footer:
     - text: License
       link: license.md
 exclude:
-  - "README.md"
   - "_retype.yml"
