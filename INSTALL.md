@@ -2,8 +2,8 @@
 visibility: hidden
 ---
 
-# Docs
-Based on [ReType](https://retype.com/).
+# Install
+These docs are based on [ReType](https://retype.com/).
 
 ## Prerequisities
 You need `npm` to install the `retypeapp` package
@@ -12,7 +12,6 @@ npm install retypeapp --global
 ```
 
 ## Install
-
 clone repository
 ```
 git clone https://github.com/jlochman/h-land-docs.git
@@ -26,10 +25,10 @@ cp _retype.yml retype.yml
 
 and edit following lines in `retype.yml`
 
-for explanation:
-- url: https://retype.com/configuration/project/#url
-- server: https://retype.com/configuration/project/#server
-- integrations: https://retype.com/configuration/project/#integrations
+> for explanation:
+> - url: https://retype.com/configuration/project/#url
+> - server: https://retype.com/configuration/project/#server
+> - integrations: https://retype.com/configuration/project/#integrations
 
 ```
 url: docs.h-land.io
