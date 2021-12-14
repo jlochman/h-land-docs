@@ -1,3 +1,7 @@
+---
+visibility: hidden
+---
+
 # Docs
 Based on [ReType](https://retype.com/).
 

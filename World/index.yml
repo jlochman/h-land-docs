@@ -1,4 +1,5 @@
 icon: globe
-order: 500
-expanded: true
+label: World
+order: 600
+expanded: false
 

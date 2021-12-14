@@ -1,11 +1,30 @@
 input: .
 output: .retype
-url: # Add your website address here
+url: docs.h-land.io
+server:
+  host: 127.0.0.1:5000
+integrations:
+  googleAnalytics:
+    id: UA-12345678-1
 branding:
-  title: Project Name
-  label: Docs
+  title: Heaven Land
+  label: 
+  logo: ./assets/logo.png
+  logoDark: ./assets/logo-dark.png
+favicon: ./assets/logo.png
 links:
-- text: Getting Started
+- text: Home
   link: https://retype.com/guides/getting-started/
+  icon: home
+  target: blank
+- text: World
+  link: https://retype.com/guides/getting-started/
+  icon: globe
+  target: blank
 footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  copyright: "&copy; Copyright {{ year }}. Heaven Land."
+  links:
+    - text: License
+      link: license.md
+exclude:
+  - "_retype.yml"
