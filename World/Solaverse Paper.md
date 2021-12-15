@@ -7,3 +7,5 @@ date: 2021-11-28
 ---
 
 # Solaverse Paper
+
+[!file](../assets/jlochman.png)
